@@ -11,7 +11,7 @@ https://www.hackerrank.com/challenges/pangrams
 using namespace std;
 
 
-int main() {
+int pangramsMain() {
 	string input;
 	int mask;
 	int test = (1 << 26) - 1;
